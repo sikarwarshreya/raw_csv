@@ -1,4 +1,4 @@
-Id,Title,Director,Year,Length_minutes,Profit,Budget(in_thousand_Doller ),Shooting_start_year,Shooting_end_year,Total_shoot_time(days)
+Id,Title,Director,Year,Length_minutes,Profit,Budget,Shooting_start_year,Shooting_end_year,Total_shoot_time
 1,Toy Story,John Lasseter,1995,81,59%,3550,1992,1995,1095
 2,A Bug's Life,John Lasseter,1998,95,67%,2080,1995,1997,730
 3,Toy Story 2,John Lasseter,1999,93,50%,3770,1994,1998,1460
