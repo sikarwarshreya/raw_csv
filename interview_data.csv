@@ -1,0 +1,16 @@
+Id,Title,Director,Year,Length_minutes,Profit,Budget(in_thousand_Doller ),Shooting_start_year,Shooting_end_year,Total_shoot_time(days)
+1,Toy Story,John Lasseter,1995,81,59%,3550,1992,1995,1095
+2,A Bug's Life,John Lasseter,1998,95,67%,2080,1995,1997,730
+3,Toy Story 2,John Lasseter,1999,93,50%,3770,1994,1998,1460
+4,"Monsters, Inc.",Pete Docter,2001,92,31%,1310,1996,2000,1460
+5,Finding Nemo,Andrew Stanton,2003,107,56%,2390,1999,2003,1460
+6,The Incredibles,Brad Bird,2004,116,34%,1410,2001,2002,365
+7,Cars,John Lasseter,2006,117,12%,4140,2003,2006,1095
+8,Ratatouille,Brad Bird,2007,115,53%,4120,2002,2005,1095
+9,WALL-E,Andrew Stanton,2008,104,24%,4660,2005,2006,365
+10,Up,Pete Docter,2009,101,62%,580,2006,2009,1095
+11,Toy Story 3,Lee Unkrich,2010,103,40%,870,2006,2008,730
+12,Cars 2,John Lasseter,2011,120,42%,4440,2008,2009,365
+13,Brave,Brenda Chapman,2012,102,58%,3370,2008,2010,730
+14,Monsters University,Dan Scanlon,2013,110,52%,580,2009,2013,1460
+87,WALL-G,Brenda Chapman,2042,97,28%,3660,2039,2042,1095
